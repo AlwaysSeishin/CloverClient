@@ -1,0 +1,18 @@
+{
+"name": "aozyra",
+"uuid": "eafc34ef-e51a-4d58-b364-851f56deece4",
+"enabled": "true",
+"cape-style": "",
+"cape-enabled": "true",
+"hat-enabled": "true",
+"hat-r": "255",
+"hat-g": "0",
+"hat-b": "0",
+"wings-enabled": "true",
+"wings-r": "100.1F",
+"wings-g": "0.1F",
+"wings-b": "0.1F",
+"glasses-enabled":"true",
+"eastereggs-enabled":"true",
+"susanoo-enabled":"true"
+}
