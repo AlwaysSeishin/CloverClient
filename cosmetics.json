@@ -1,16 +1,14 @@
 [
     {
-    "name": "aozyra",
     "uuid": "eafc34ef-e51a-4d58-b364-851f56deece4",
-    "enabled": "true",
     "cape-style": "",
-    "cape-enabled": "true",
-    "hat-enabled": "true",
-    "hat-r": "12",
-    "hat-g": "255",
-    "hat-b": "90",
+    "cape1-enabled": "true",
     "wings-enabled": "true",
-    "wings-r": "0.1F",
-    "wings-g": "0.1F",
-    "wings-b": "0.1F"
+    "eastereggs-enabled": "true",
+    "witch-enabled": "true",
+    "lightning-enabled": "true",
+    "sunglasses-enabled": "true",
+    "gel-enabled": "true",
+    "wither-enabled": "true",
+    "susanoo-enabled": "true",
     }] 
