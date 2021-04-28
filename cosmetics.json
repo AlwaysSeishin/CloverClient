@@ -1,5 +1,4 @@
-[
-    {
+{
     "uuid": "eafc34ef-e51a-4d58-b364-851f56deece4",
     "cape-style": "",
     "cape1-enabled": "true",
@@ -11,4 +10,4 @@
     "gel-enabled": "true",
     "wither-enabled": "true",
     "susanoo-enabled": "true",
-    }] 
+} 
